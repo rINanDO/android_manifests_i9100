@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="device/samsung/i9100" remote="github" name="rINanDO/android_device_samsung_i9100" />
+  <project path="device/samsung/galaxys2-common" remote="github" name="rINanDO/android_device_samsung_galaxys2-common" />
+  <project path="kernel/samsung/smdk4412" remote="github" name="rINanDO/android_kernel_samsung_smdk4412" />
+  <project path="hardware/samsung" remote="github" name="rINanDO/android_hardware_samsung" />
+  <project path="packages/apps/SamsungServiceMode" remote="github" name="LineageOS/android_packages_apps_SamsungServiceMode" />
+  <project path="external/stlport" remote="github" name="LineageOS/android_external_stlport" />
+  <project path="packages/resources/devicesettings" remote="github" name="LineageOS/android_packages_resources_devicesettings" />
+  <project path="vendor/samsung" remote="github" name="rINanDO/proprietary_vendor_samsung" />
+</manifest>
